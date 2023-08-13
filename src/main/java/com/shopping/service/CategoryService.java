@@ -6,6 +6,6 @@ import com.shopping.model.Category;
 
 public interface CategoryService {
 	
-	public List<Category> viewAllCategorys();	//Read
+	public List<Category> viewAllCategorys();
 
 }
